@@ -1,0 +1,244 @@
+﻿iso2,iso3,country,study_count_unweighted,study_count_weighted,country_study_pairs,world_bank_region,world_bank_income_group,world_bank_income_hic_lmic,who_region,world_bank_economy,country_id
+AF,AFG,Afghanistan,1,0.0175438596491228,1,South Asia,Low income,LMIC,Eastern Mediterranean Region (EMRO),Afghanistan,1
+AL,ALB,Albania,0,0.0,0,Europe & Central Asia,Upper middle income,LMIC,,Albania,2
+DZ,DZA,Algeria,0,0.0,0,Middle East & North Africa,Lower middle income,LMIC,,Algeria,3
+AS,ASM,American Samoa,0,0.0,0,East Asia & Pacific,Upper middle income,LMIC,,American Samoa,4
+AD,AND,Andorra,0,0.0,0,Europe & Central Asia,High income,HIC,,Andorra,5
+AO,AGO,Angola,0,0.0,0,Sub-Saharan Africa,Lower middle income,LMIC,,Angola,6
+AI,AIA,Anguilla,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,7
+AQ,ATA,Antarctica,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,8
+AG,ATG,Antigua and Barbuda,0,0.0,0,Latin America & Caribbean,High income,HIC,,Antigua and Barbuda,9
+AR,ARG,Argentina,2,0.0289689346293119,2,Latin America & Caribbean,Upper middle income,LMIC,Region of the Americas (AMRO/PAHO),Argentina,10
+AM,ARM,Armenia,0,0.0,0,Europe & Central Asia,Upper middle income,LMIC,,Armenia,11
+AW,ABW,Aruba,0,0.0,0,Latin America & Caribbean,High income,HIC,,Aruba,12
+AU,AUS,Australia,7,2.277762794278434,7,East Asia & Pacific,High income,HIC,Western Pacific Region (WPRO),Australia,13
+AT,AUT,Austria,6,0.1698114254718026,6,Europe & Central Asia,High income,HIC,European Region (EURO),Austria,14
+AZ,AZE,Azerbaijan,0,0.0,0,Europe & Central Asia,Upper middle income,LMIC,,Azerbaijan,15
+BS,BHS,Bahamas,0,0.0,0,Latin America & Caribbean,High income,HIC,,"Bahamas, The",16
+BH,BHR,Bahrain,1,0.0101010101010101,1,Middle East & North Africa,High income,HIC,Eastern Mediterranean Region (EMRO),Bahrain,17
+BD,BGD,Bangladesh,5,2.058894869750133,5,South Asia,Lower middle income,LMIC,South-East Asia Region (SEARO),Bangladesh,18
+BB,BRB,Barbados,0,0.0,0,Latin America & Caribbean,High income,HIC,,Barbados,19
+BY,BLR,Belarus,1,0.0101010101010101,1,Europe & Central Asia,Upper middle income,LMIC,European Region (EURO),Belarus,20
+BE,BEL,Belgium,8,0.2984663962320365,8,Europe & Central Asia,High income,HIC,European Region (EURO),Belgium,21
+BZ,BLZ,Belize,0,0.0,0,Latin America & Caribbean,Upper middle income,LMIC,,Belize,22
+BJ,BEN,Benin,0,0.0,0,Sub-Saharan Africa,Lower middle income,LMIC,,Benin,23
+BM,BMU,Bermuda,0,0.0,0,North America,High income,HIC,,Bermuda,24
+BT,BTN,Bhutan,1,0.0101010101010101,1,South Asia,Lower middle income,LMIC,South-East Asia Region (SEARO),Bhutan,25
+BO,BOL,Bolivia,0,0.0,0,Latin America & Caribbean,Lower middle income,LMIC,,Bolivia,26
+BQ,BES,Bonaire,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,244
+BA,BIH,Bosnia and Herzegovina,1,0.0101010101010101,1,Europe & Central Asia,Upper middle income,LMIC,European Region (EURO),Bosnia and Herzegovina,27
+BW,BWA,Botswana,1,0.0175438596491228,1,Sub-Saharan Africa,Upper middle income,LMIC,African Region (AFRO),Botswana,28
+BV,BVT,Bouvet Island,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,29
+BR,BRA,Brazil,4,1.046512794278435,4,Latin America & Caribbean,Upper middle income,LMIC,Region of the Americas (AMRO/PAHO),Brazil,30
+IO,IOT,British Indian Ocean Territory,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,31
+VG,VGB,British Virgin Islands,0,0.0,0,Latin America & Caribbean,High income,HIC,,British Virgin Islands,32
+BN,BRN,Brunei Darussalam,1,0.0101010101010101,1,East Asia & Pacific,High income,HIC,Western Pacific Region (WPRO),Brunei Darussalam,33
+BG,BGR,Bulgaria,6,0.2620546120546119,6,Europe & Central Asia,Upper middle income,LMIC,European Region (EURO),Bulgaria,34
+BF,BFA,Burkina Faso,1,0.0101010101010101,1,Sub-Saharan Africa,Low income,LMIC,African Region (AFRO),Burkina Faso,35
+BI,BDI,Burundi,0,0.0,0,Sub-Saharan Africa,Low income,LMIC,,Burundi,36
+CV,CPV,Cabo Verde,0,0.0,0,Sub-Saharan Africa,Lower middle income,LMIC,,Cabo Verde,37
+KH,KHM,Cambodia,2,0.0413510101010101,2,East Asia & Pacific,Lower middle income,LMIC,Western Pacific Region (WPRO),Cambodia,38
+CM,CMR,Cameroon,0,0.0,0,Sub-Saharan Africa,Lower middle income,LMIC,,Cameroon,39
+CA,CAN,Canada,10,6.246512794278434,10,North America,High income,HIC,Region of the Americas (AMRO/PAHO),Canada,40
+KY,CYM,Cayman Islands,0,0.0,0,Latin America & Caribbean,High income,HIC,,Cayman Islands,42
+CF,CAF,Central African Republic,0,0.0,0,Sub-Saharan Africa,Low income,LMIC,,Central African Republic,43
+TD,TCD,Chad,0,0.0,0,Sub-Saharan Africa,Low income,LMIC,,Chad,44
+CL,CHL,Chile,3,0.0465127942784347,3,Latin America & Caribbean,High income,HIC,Region of the Americas (AMRO/PAHO),Chile,45
+CN,CHN,China,79,74.27776279427843,79,East Asia & Pacific,Upper middle income,LMIC,Western Pacific Region (WPRO),China,46
+CX,CXR,Christmas Island,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,47
+CC,CCK,Cocos Islands,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,48
+CO,COL,Colombia,3,1.0364117841774243,3,Latin America & Caribbean,Upper middle income,LMIC,Region of the Americas (AMRO/PAHO),Colombia,49
+KM,COM,Comoros,0,0.0,0,Sub-Saharan Africa,Lower middle income,LMIC,,Comoros,50
+CG,COG,Congo,0,0.0,0,Sub-Saharan Africa,Lower middle income,LMIC,,"Congo, Rep.",51
+CD,COD,Congo DRC,1,1.0,1,Sub-Saharan Africa,Low income,LMIC,African Region (AFRO),"Congo, Dem. Rep.",52
+CK,COK,Cook Islands,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,53
+CR,CRI,Costa Rica,1,0.0188679245283018,1,Latin America & Caribbean,Upper middle income,LMIC,Region of the Americas (AMRO/PAHO),Costa Rica,54
+HR,HRV,Croatia,6,0.1698114254718026,6,Europe & Central Asia,High income,HIC,European Region (EURO),Croatia,56
+CU,CUB,Cuba,0,0.0,0,Latin America & Caribbean,Upper middle income,LMIC,,Cuba,57
+CW,CUW,Curacao,0,0.0,0,Latin America & Caribbean,High income,HIC,,Curaçao,245
+CY,CYP,Cyprus,4,1.0767676767676766,4,Europe & Central Asia,High income,HIC,European Region (EURO),Cyprus,58
+CZ,CZE,Czech Republic,7,0.1873552851209254,7,Europe & Central Asia,High income,HIC,European Region (EURO),Czech Republic,59
+CI,CIV,Côte d'Ivoire,0,0.0,0,Sub-Saharan Africa,Lower middle income,LMIC,,Côte d’Ivoire,55
+DK,DNK,Denmark,9,1.2984663962320364,9,Europe & Central Asia,High income,HIC,European Region (EURO),Denmark,60
+DJ,DJI,Djibouti,0,0.0,0,Middle East & North Africa,Lower middle income,LMIC,,Djibouti,61
+DM,DMA,Dominica,0,0.0,0,Latin America & Caribbean,Upper middle income,LMIC,,Dominica,62
+DO,DOM,Dominican Republic,0,0.0,0,Latin America & Caribbean,Upper middle income,LMIC,,Dominican Republic,63
+EC,ECU,Ecuador,1,0.0101010101010101,1,Latin America & Caribbean,Upper middle income,LMIC,Region of the Americas (AMRO/PAHO),Ecuador,64
+EG,EGY,Egypt,3,0.0588948697501329,3,Middle East & North Africa,Lower middle income,LMIC,Eastern Mediterranean Region (EMRO),"Egypt, Arab Rep.",65
+SV,SLV,El Salvador,1,0.0188679245283018,1,Latin America & Caribbean,Lower middle income,LMIC,Region of the Americas (AMRO/PAHO),El Salvador,66
+GQ,GNQ,Equatorial Guinea,0,0.0,0,Sub-Saharan Africa,Upper middle income,LMIC,,Equatorial Guinea,67
+ER,ERI,Eritrea,0,0.0,0,Sub-Saharan Africa,Low income,LMIC,,Eritrea,68
+EE,EST,Estonia,5,0.1509435009435007,5,Europe & Central Asia,High income,HIC,European Region (EURO),Estonia,69
+SZ,SWZ,Eswatini,0,0.0,0,Sub-Saharan Africa,Lower middle income,LMIC,,Eswatini,70
+ET,ETH,Ethiopia,1,0.0101010101010101,1,Sub-Saharan Africa,Low income,LMIC,African Region (AFRO),Ethiopia,71
+FK,FLK,Falkland Islands,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,72
+FO,FRO,Faroe Islands,0,0.0,0,Europe & Central Asia,High income,HIC,,Faroe Islands,73
+FJ,FJI,Fiji,0,0.0,0,East Asia & Pacific,Upper middle income,LMIC,,Fiji,74
+FI,FIN,Finland,6,0.1698114254718026,6,Europe & Central Asia,High income,HIC,European Region (EURO),Finland,75
+FR,FRA,France,10,2.2984663962320364,10,Europe & Central Asia,High income,HIC,European Region (EURO),France,76
+GF,GUF,French Guiana,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,77
+PF,PYF,French Polynesia,0,0.0,0,East Asia & Pacific,High income,HIC,,French Polynesia,78
+TF,ATF,French Southern Territories,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,79
+GA,GAB,Gabon,0,0.0,0,Sub-Saharan Africa,Upper middle income,LMIC,,Gabon,80
+GM,GMB,Gambia,0,0.0,0,Sub-Saharan Africa,Low income,LMIC,,"Gambia, The",81
+GE,GEO,Georgia,1,0.0101010101010101,1,Europe & Central Asia,Upper middle income,LMIC,European Region (EURO),Georgia,82
+DE,DEU,Germany,12,4.298466396232037,12,Europe & Central Asia,High income,HIC,European Region (EURO),Germany,83
+GH,GHA,Ghana,2,0.0276448697501329,2,Sub-Saharan Africa,Lower middle income,LMIC,African Region (AFRO),Ghana,84
+GI,GIB,Gibraltar,0,0.0,0,Europe & Central Asia,High income,HIC,,Gibraltar,85
+GR,GRC,Greece,9,2.1873552851209253,9,Europe & Central Asia,High income,HIC,European Region (EURO),Greece,87
+GL,GRL,Greenland,0,0.0,0,Europe & Central Asia,High income,HIC,,Greenland,88
+GD,GRD,Grenada,0,0.0,0,Latin America & Caribbean,Upper middle income,LMIC,,Grenada,89
+GP,GLP,Guadeloupe,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,90
+GU,GUM,Guam,0,0.0,0,East Asia & Pacific,High income,HIC,,Guam,91
+GT,GTM,Guatemala,1,0.0188679245283018,1,Latin America & Caribbean,Upper middle income,LMIC,Region of the Americas (AMRO/PAHO),Guatemala,92
+GG,GGY,Guernsey,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,93
+GN,GIN,Guinea,0,0.0,0,Sub-Saharan Africa,Low income,LMIC,,Guinea,94
+GW,GNB,Guinea-Bissau,0,0.0,0,Sub-Saharan Africa,Low income,LMIC,,Guinea-Bissau,95
+GY,GUY,Guyana,0,0.0,0,Latin America & Caribbean,Upper middle income,LMIC,,Guyana,96
+HT,HTI,Haiti,0,0.0,0,Latin America & Caribbean,Lower middle income,LMIC,,Haiti,97
+HM,HMD,Heard Island and McDonald Islands,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,98
+HN,HND,Honduras,1,0.0188679245283018,1,Latin America & Caribbean,Lower middle income,LMIC,Region of the Americas (AMRO/PAHO),Honduras,99
+HU,HUN,Hungary,7,0.1873552851209254,7,Europe & Central Asia,High income,HIC,European Region (EURO),Hungary,100
+IS,ISL,Iceland,5,0.1509435009435007,5,Europe & Central Asia,High income,HIC,European Region (EURO),Iceland,101
+IN,IND,India,11,7.077762794278435,11,South Asia,Lower middle income,LMIC,South-East Asia Region (SEARO),India,102
+ID,IDN,Indonesia,3,1.0413510101010102,3,East Asia & Pacific,Lower middle income,LMIC,Western Pacific Region (WPRO),Indonesia,103
+IR,IRN,Iran,3,0.0588948697501329,3,Middle East & North Africa,Lower middle income,LMIC,Eastern Mediterranean Region (EMRO),"Iran, Islamic Rep.",104
+IQ,IRQ,Iraq,3,1.0276448697501328,3,Middle East & North Africa,Upper middle income,LMIC,Eastern Mediterranean Region (EMRO),Iraq,105
+IE,IRL,Ireland,6,0.1698114254718026,6,Europe & Central Asia,High income,HIC,European Region (EURO),Ireland,106
+IM,IMN,Isle of Man,0,0.0,0,Europe & Central Asia,High income,HIC,,Isle of Man,107
+IL,ISR,Israel,5,2.0676617841774245,5,Middle East & North Africa,High income,HIC,European Region (EURO),Israel,108
+IT,ITA,Italy,10,2.2984663962320364,10,Europe & Central Asia,High income,HIC,European Region (EURO),Italy,109
+JM,JAM,Jamaica,1,0.0175438596491228,1,Latin America & Caribbean,Upper middle income,LMIC,Region of the Americas (AMRO/PAHO),Jamaica,110
+JP,JPN,Japan,5,1.077762794278435,5,East Asia & Pacific,High income,HIC,Western Pacific Region (WPRO),Japan,111
+JE,JEY,Jersey,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,112
+JO,JOR,Jordan,3,1.0289689346293118,3,Middle East & North Africa,Upper middle income,LMIC,Eastern Mediterranean Region (EMRO),Jordan,113
+KZ,KAZ,Kazakhstan,2,0.0487938596491228,2,Europe & Central Asia,Upper middle income,LMIC,European Region (EURO),Kazakhstan,115
+KE,KEN,Kenya,1,0.0101010101010101,1,Sub-Saharan Africa,Lower middle income,LMIC,African Region (AFRO),Kenya,116
+KI,KIR,Kiribati,0,0.0,0,East Asia & Pacific,Lower middle income,LMIC,,Kiribati,117
+KW,KWT,Kuwait,4,1.0602189346293118,4,Middle East & North Africa,High income,HIC,Eastern Mediterranean Region (EMRO),Kuwait,118
+KG,KGZ,Kyrgyzstan,0,0.0,0,Europe & Central Asia,Lower middle income,LMIC,,Kyrgyz Republic,119
+LA,LAO,Laos,2,0.0276448697501329,2,East Asia & Pacific,Lower middle income,LMIC,Western Pacific Region (WPRO),Lao PDR,120
+LV,LVA,Latvia,6,0.1698114254718026,6,Europe & Central Asia,High income,HIC,European Region (EURO),Latvia,121
+LB,LBN,Lebanon,4,1.0588948697501328,4,Middle East & North Africa,Lower middle income,LMIC,Eastern Mediterranean Region (EMRO),Lebanon,122
+LS,LSO,Lesotho,0,0.0,0,Sub-Saharan Africa,Lower middle income,LMIC,,Lesotho,123
+LR,LBR,Liberia,1,0.0101010101010101,1,Sub-Saharan Africa,Low income,LMIC,African Region (AFRO),Liberia,124
+LY,LBY,Libya,1,0.0101010101010101,1,Middle East & North Africa,Upper middle income,LMIC,Eastern Mediterranean Region (EMRO),Libya,125
+LI,LIE,Liechtenstein,0,0.0,0,Europe & Central Asia,High income,HIC,,Liechtenstein,126
+LT,LTU,Lithuania,5,0.1313498870102641,5,Europe & Central Asia,High income,HIC,European Region (EURO),Lithuania,127
+LU,LUX,Luxembourg,5,0.1509435009435007,5,Europe & Central Asia,High income,HIC,European Region (EURO),Luxembourg,128
+MG,MDG,Madagascar,1,0.0101010101010101,1,Sub-Saharan Africa,Low income,LMIC,African Region (AFRO),Madagascar,129
+MW,MWI,Malawi,1,0.0101010101010101,1,Sub-Saharan Africa,Low income,LMIC,African Region (AFRO),Malawi,130
+MY,MYS,Malaysia,3,0.0602189346293118,3,East Asia & Pacific,Upper middle income,LMIC,Western Pacific Region (WPRO),Malaysia,131
+MV,MDV,Maldives,0,0.0,0,South Asia,Upper middle income,LMIC,,Maldives,132
+ML,MLI,Mali,1,0.0101010101010101,1,Sub-Saharan Africa,Low income,LMIC,African Region (AFRO),Mali,133
+MT,MLT,Malta,3,0.0767676767676766,3,Middle East & North Africa,High income,HIC,European Region (EURO),Malta,134
+MH,MHL,Marshall Islands,0,0.0,0,East Asia & Pacific,Upper middle income,LMIC,,Marshall Islands,135
+MQ,MTQ,Martinique,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,136
+MR,MRT,Mauritania,0,0.0,0,Sub-Saharan Africa,Lower middle income,LMIC,,Mauritania,137
+MU,MUS,Mauritius,1,0.0101010101010101,1,Sub-Saharan Africa,Upper middle income,LMIC,African Region (AFRO),Mauritius,138
+YT,MYT,Mayotte,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,139
+MX,MEX,Mexico,4,0.0777627942784347,4,Latin America & Caribbean,Upper middle income,LMIC,Region of the Americas (AMRO/PAHO),Mexico,140
+FM,FSM,Micronesia,0,0.0,0,East Asia & Pacific,Lower middle income,LMIC,,"Micronesia, Fed. Sts.",141
+MD,MDA,Moldova,1,0.0101010101010101,1,Europe & Central Asia,Upper middle income,LMIC,European Region (EURO),Moldova,142
+MC,MCO,Monaco,0,0.0,0,Europe & Central Asia,High income,HIC,,Monaco,143
+MN,MNG,Mongolia,0,0.0,0,East Asia & Pacific,Lower middle income,LMIC,,Mongolia,144
+ME,MNE,Montenegro,1,0.0101010101010101,1,Europe & Central Asia,Upper middle income,LMIC,European Region (EURO),Montenegro,145
+MS,MSR,Montserrat,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,146
+MA,MAR,Morocco,2,0.0501179245283018,2,Middle East & North Africa,Lower middle income,LMIC,Eastern Mediterranean Region (EMRO),Morocco,147
+MZ,MOZ,Mozambique,0,0.0,0,Sub-Saharan Africa,Low income,LMIC,,Mozambique,148
+MM,MMR,Myanmar,1,0.0101010101010101,1,East Asia & Pacific,Lower middle income,LMIC,South-East Asia Region (SEARO),Myanmar,149
+NR,NRU,Nauru,0,0.0,0,East Asia & Pacific,High income,HIC,,Nauru,151
+NP,NPL,Nepal,3,0.0588948697501329,3,South Asia,Lower middle income,LMIC,South-East Asia Region (SEARO),Nepal,152
+NL,NLD,Netherlands,12,4.298466396232037,12,Europe & Central Asia,High income,HIC,European Region (EURO),Netherlands,153
+NC,NCL,New Caledonia,0,0.0,0,East Asia & Pacific,High income,HIC,,New Caledonia,154
+NZ,NZL,New Zealand,1,0.0101010101010101,1,East Asia & Pacific,High income,HIC,Western Pacific Region (WPRO),New Zealand,155
+NI,NIC,Nicaragua,2,0.0501179245283018,2,Latin America & Caribbean,Lower middle income,LMIC,Region of the Americas (AMRO/PAHO),Nicaragua,156
+NE,NER,Niger,0,0.0,0,Sub-Saharan Africa,Low income,LMIC,,Niger,157
+NG,NGA,Nigeria,2,0.0276448697501329,2,Sub-Saharan Africa,Lower middle income,LMIC,African Region (AFRO),Nigeria,158
+NU,NIU,Niue,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,159
+NF,NFK,Norfolk Island,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,160
+KP,PRK,North Korea,0,0.0,0,East Asia & Pacific,Low income,LMIC,,"Korea, Dem. People's Rep.",161
+MK,MKD,North Macedonia,1,0.0101010101010101,1,Europe & Central Asia,Upper middle income,LMIC,European Region (EURO),North Macedonia,162
+MP,MNP,Northern Mariana Islands,0,0.0,0,East Asia & Pacific,High income,HIC,,Northern Mariana Islands,163
+NO,NOR,Norway,6,0.1684873605926236,6,Europe & Central Asia,High income,HIC,European Region (EURO),Norway,164
+OM,OMN,Oman,1,0.0101010101010101,1,Middle East & North Africa,High income,HIC,Eastern Mediterranean Region (EMRO),Oman,165
+PK,PAK,Pakistan,4,0.0777627942784347,4,South Asia,Lower middle income,LMIC,Eastern Mediterranean Region (EMRO),Pakistan,166
+PW,PLW,Palau,0,0.0,0,East Asia & Pacific,Upper middle income,LMIC,,Palau,167
+PS,PSE,Palestinian Territory,2,0.0276448697501329,2,Middle East & North Africa,Lower middle income,LMIC,Eastern Mediterranean Region (EMRO),West Bank and Gaza,168
+PA,PAN,Panama,1,0.0188679245283018,1,Latin America & Caribbean,High income,HIC,Region of the Americas (AMRO/PAHO),Panama,169
+PG,PNG,Papua New Guinea,0,0.0,0,East Asia & Pacific,Lower middle income,LMIC,,Papua New Guinea,170
+PY,PRY,Paraguay,0,0.0,0,Latin America & Caribbean,Upper middle income,LMIC,,Paraguay,171
+PE,PER,Peru,2,0.0413510101010101,2,Latin America & Caribbean,Upper middle income,LMIC,Region of the Americas (AMRO/PAHO),Peru,172
+PH,PHL,Philippines,3,0.0602189346293118,3,East Asia & Pacific,Lower middle income,LMIC,Western Pacific Region (WPRO),Philippines,173
+PN,PCN,Pitcairn,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,174
+PL,POL,Poland,12,4.298466396232037,12,Europe & Central Asia,High income,HIC,European Region (EURO),Poland,175
+PT,PRT,Portugal,9,3.169811425471803,9,Europe & Central Asia,High income,HIC,European Region (EURO),Portugal,176
+PR,PRI,Puerto Rico,0,0.0,0,Latin America & Caribbean,High income,HIC,,Puerto Rico,177
+QA,QAT,Qatar,3,1.0276448697501328,3,Middle East & North Africa,High income,HIC,Eastern Mediterranean Region (EMRO),Qatar,178
+RO,ROU,Romania,6,1.131349887010264,6,Europe & Central Asia,High income,HIC,European Region (EURO),Romania,180
+RU,RUS,Russian Federation,4,2.027644869750133,4,Europe & Central Asia,Upper middle income,LMIC,European Region (EURO),Russian Federation,181
+RW,RWA,Rwanda,0,0.0,0,Sub-Saharan Africa,Low income,LMIC,,Rwanda,182
+RE,REU,Réunion,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,179
+BL,BLM,Saint Barthelemy,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,183
+SH,SHN,Saint Helena,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,184
+KN,KNA,Saint Kitts and Nevis,0,0.0,0,Latin America & Caribbean,High income,HIC,,St. Kitts and Nevis,185
+LC,LCA,Saint Lucia,0,0.0,0,Latin America & Caribbean,Upper middle income,LMIC,,St. Lucia,186
+MF,MAF,Saint Martin,0,0.0,0,Latin America & Caribbean,High income,HIC,,St. Martin (French part),187
+PM,SPM,Saint Pierre and Miquelon,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,188
+VC,VCT,Saint Vincent and the Grenadines,0,0.0,0,Latin America & Caribbean,Upper middle income,LMIC,,St. Vincent and the Grenadines,189
+WS,WSM,Samoa,0,0.0,0,East Asia & Pacific,Lower middle income,LMIC,,Samoa,190
+SM,SMR,San Marino,0,0.0,0,Europe & Central Asia,High income,HIC,,San Marino,191
+ST,STP,Sao Tome and Principe,0,0.0,0,Sub-Saharan Africa,Lower middle income,LMIC,,São Tomé and Príncipe,192
+SA,SAU,Saudi Arabia,5,1.077762794278435,5,Middle East & North Africa,High income,HIC,Eastern Mediterranean Region (EMRO),Saudi Arabia,193
+SN,SEN,Senegal,1,0.0175438596491228,1,Sub-Saharan Africa,Lower middle income,LMIC,African Region (AFRO),Senegal,194
+RS,SRB,Serbia,2,0.0413510101010101,2,Europe & Central Asia,Upper middle income,LMIC,European Region (EURO),Serbia,195
+SC,SYC,Seychelles,0,0.0,0,Sub-Saharan Africa,High income,HIC,,Seychelles,196
+SL,SLE,Sierra Leone,0,0.0,0,Sub-Saharan Africa,Low income,LMIC,,Sierra Leone,197
+SG,SGP,Singapore,4,0.0777627942784347,4,East Asia & Pacific,High income,HIC,Western Pacific Region (WPRO),Singapore,198
+SX,SXM,Sint Maarten,0,0.0,0,Latin America & Caribbean,High income,HIC,,Sint Maarten (Dutch part),248
+SK,SVK,Slovakia,6,1.1509435009435007,6,Europe & Central Asia,High income,HIC,European Region (EURO),Slovak Republic,199
+SI,SVN,Slovenia,5,0.1509435009435007,5,Europe & Central Asia,High income,HIC,European Region (EURO),Slovenia,200
+SB,SLB,Solomon Islands,0,0.0,0,East Asia & Pacific,Lower middle income,LMIC,,Solomon Islands,201
+SO,SOM,Somalia,0,0.0,0,Sub-Saharan Africa,Low income,LMIC,,Somalia,202
+ZA,ZAF,South Africa,4,1.046512794278435,4,Sub-Saharan Africa,Upper middle income,LMIC,African Region (AFRO),South Africa,203
+GS,SGS,South Georgia and South Sandwich Islands,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,204
+KR,KOR,South Korea,7,3.0953066539275573,8,East Asia & Pacific,High income,HIC,Western Pacific Region (WPRO),"Korea, Rep.",205
+SS,SSD,South Sudan,0,0.0,0,Sub-Saharan Africa,Low income,LMIC,,South Sudan,249
+ES,ESP,Spain,12,4.298466396232037,12,Europe & Central Asia,High income,HIC,European Region (EURO),Spain,206
+LK,LKA,Sri Lanka,3,1.0413510101010102,3,South Asia,Lower middle income,LMIC,South-East Asia Region (SEARO),Sri Lanka,207
+SD,SDN,Sudan,3,0.0588948697501329,3,Sub-Saharan Africa,Low income,LMIC,Eastern Mediterranean Region (EMRO),Sudan,208
+SR,SUR,Suriname,0,0.0,0,Latin America & Caribbean,Upper middle income,LMIC,,Suriname,209
+SJ,SJM,Svalbard,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,210
+SE,SWE,Sweden,7,0.1873552851209254,7,Europe & Central Asia,High income,HIC,European Region (EURO),Sweden,211
+CH,CHE,Switzerland,4,1.046512794278435,4,Europe & Central Asia,High income,HIC,European Region (EURO),Switzerland,212
+SY,SYR,Syria,1,0.03125,1,Middle East & North Africa,Low income,LMIC,Eastern Mediterranean Region (EMRO),Syrian Arab Republic,213
+TJ,TJK,Tajikistan,0,0.0,0,Europe & Central Asia,Lower middle income,LMIC,,Tajikistan,214
+TZ,TZA,Tanzania,1,0.0175438596491228,1,Sub-Saharan Africa,Lower middle income,LMIC,African Region (AFRO),Tanzania,215
+TH,THA,Thailand,4,0.0777627942784347,4,East Asia & Pacific,Upper middle income,LMIC,South-East Asia Region (SEARO),Thailand,216
+TL,TLS,Timor-Leste,0,0.0,0,East Asia & Pacific,Lower middle income,LMIC,,Timor-Leste,217
+TG,TGO,Togo,0,0.0,0,Sub-Saharan Africa,Low income,LMIC,,Togo,218
+TK,TKL,Tokelau,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,219
+TO,TON,Tonga,0,0.0,0,East Asia & Pacific,Upper middle income,LMIC,,Tonga,220
+TT,TTO,Trinidad and Tobago,0,0.0,0,Latin America & Caribbean,High income,HIC,,Trinidad and Tobago,221
+TN,TUN,Tunisia,2,0.0413510101010101,2,Middle East & North Africa,Lower middle income,LMIC,Eastern Mediterranean Region (EMRO),Tunisia,222
+TR,TUR,Turkey,5,1.077762794278435,5,Europe & Central Asia,Upper middle income,LMIC,European Region (EURO),Türkiye,223
+TM,TKM,Turkmenistan,0,0.0,0,Europe & Central Asia,Upper middle income,LMIC,,Turkmenistan,224
+TC,TCA,Turks and Caicos Islands,0,0.0,0,Latin America & Caribbean,High income,HIC,,Turks and Caicos Islands,225
+TV,TUV,Tuvalu,0,0.0,0,East Asia & Pacific,Upper middle income,LMIC,,Tuvalu,226
+VI,VIR,US Virgin Islands,0,0.0,0,Latin America & Caribbean,High income,HIC,,Virgin Islands (U.S.),234
+UG,UGA,Uganda,1,0.0175438596491228,1,Sub-Saharan Africa,Low income,LMIC,African Region (AFRO),Uganda,227
+UA,UKR,Ukraine,2,0.0276448697501329,2,Europe & Central Asia,Lower middle income,LMIC,European Region (EURO),Ukraine,228
+AE,ARE,United Arab Emirates,2,0.0276448697501329,2,Middle East & North Africa,High income,HIC,Eastern Mediterranean Region (EMRO),United Arab Emirates,229
+GB,GBR,United Kingdom,9,1.3873552851209254,9,Europe & Central Asia,High income,HIC,European Region (EURO),United Kingdom,230
+US,USA,United States,34,30.24651279427844,34,North America,High income,HIC,Region of the Americas (AMRO/PAHO),United States,231
+UM,UMI,United States Minor Outlying Islands,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,232
+UY,URY,Uruguay,0,0.0,0,Latin America & Caribbean,High income,HIC,,Uruguay,233
+UZ,UZB,Uzbekistan,0,0.0,0,Europe & Central Asia,Lower middle income,LMIC,,Uzbekistan,235
+VU,VUT,Vanuatu,0,0.0,0,East Asia & Pacific,Lower middle income,LMIC,,Vanuatu,236
+VA,VAT,Vatican City,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,237
+VE,VEN,Venezuela,3,0.0465127942784347,3,Latin America & Caribbean,Not classified by World Bank,Not classified by World Bank,Region of the Americas (AMRO/PAHO),"Venezuela, RB",238
+VN,VNM,Vietnam,4,1.0588948697501328,4,East Asia & Pacific,Lower middle income,LMIC,Western Pacific Region (WPRO),Vietnam,239
+WF,WLF,Wallis and Futuna,0,0.0,0,Not classified by World Bank,Not classified by World Bank,Not classified by World Bank,,,240
+YE,YEM,Yemen,0,0.0,0,Middle East & North Africa,Low income,LMIC,,"Yemen, Rep.",241
+ZM,ZMB,Zambia,1,0.0101010101010101,1,Sub-Saharan Africa,Low income,LMIC,African Region (AFRO),Zambia,242
+ZW,ZWE,Zimbabwe,1,0.0101010101010101,1,Sub-Saharan Africa,Lower middle income,LMIC,African Region (AFRO),Zimbabwe,243

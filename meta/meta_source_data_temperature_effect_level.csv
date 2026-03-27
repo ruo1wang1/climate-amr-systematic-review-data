@@ -1,0 +1,166 @@
+﻿result_record_id,study_reference_id,within_study_result_no,study_label,author_year,pathogen,exposure,region_world_bank,region_who,income_level,sample_size,effect_type,estimate,ci_lower,ci_upper,analysis_type
+RID_4-1,4,1,"Sahoo, Krushna Chandra, et al. (2014)","Sahoo, Krushna Chandra, et al. (2014)",Other,Maximum temperature,South Asia,South-East Asia Region,,590,Coefficient (Coef.),0.6,-0.43,1.62,Beta
+RID_4-2,4,2,"Sahoo, Krushna Chandra, et al. (2014)","Sahoo, Krushna Chandra, et al. (2014)",Other,Minimum temperature,South Asia,South-East Asia Region,,590,Coefficient (Coef.),0.9,0.04,1.76,Beta
+RID_4-5,4,5,"Sahoo, Krushna Chandra, et al. (2014)","Sahoo, Krushna Chandra, et al. (2014)",S. aureus,Maximum temperature,South Asia,South-East Asia Region,,590,Coefficient (Coef.),-0.56,-1.14,0.02,Beta
+RID_4-6,4,6,"Sahoo, Krushna Chandra, et al. (2014)","Sahoo, Krushna Chandra, et al. (2014)",S. aureus,Maximum temperature,South Asia,South-East Asia Region,,590,Coefficient (Coef.),0.69,-0.02,1.4,Beta
+RID_4-8,4,8,"Sahoo, Krushna Chandra, et al. (2014)","Sahoo, Krushna Chandra, et al. (2014)",S. aureus,Maximum temperature,South Asia,South-East Asia Region,,387,Coefficient (Coef.),-0.42,-0.86,0.02,Beta
+RID_4-9,4,9,"Sahoo, Krushna Chandra, et al. (2014)","Sahoo, Krushna Chandra, et al. (2014)",S. aureus,Maximum temperature,South Asia,South-East Asia Region,,387,Coefficient (Coef.),0.57,0.01,1.13,Beta
+RID_5-7,5,7,"Blanco, Natalia, et al. (2017)","Blanco, Natalia, et al. (2017)",S. aureus,Other temperature,North America,Region of the Americas,High-income (HICs),1968,Prevalence Rate Ratio (PRR),1.007,1.0026,1.0115,RR/OR
+RID_8-1,8,1,MacFadden et al. (2018),MacFadden et al. (2018),E. coli,Minimum temperature,North America,Region of the Americas,,1079485,Beta coefficient (% per °C),0.512,0.253,0.771,Beta
+RID_8-2,8,2,MacFadden et al. (2018),MacFadden et al. (2018),E. coli,Minimum temperature,North America,Region of the Americas,,1079485,Beta coefficient (% per °C),0.598,0.296,0.9,Beta
+RID_8-3,8,3,MacFadden et al. (2018),MacFadden et al. (2018),E. coli,Minimum temperature,North America,Region of the Americas,,1079485,Beta coefficient (% per °C),0.419,0.208,0.63,Beta
+RID_8-4,8,4,MacFadden et al. (2018),MacFadden et al. (2018),K. pneumoniae,Minimum temperature,North America,Region of the Americas,,191331,Beta coefficient (% per °C),0.341,0.169,0.513,Beta
+RID_8-5,8,5,MacFadden et al. (2018),MacFadden et al. (2018),K. pneumoniae,Minimum temperature,North America,Region of the Americas,,191331,Beta coefficient (% per °C),0.397,0.197,0.597,Beta
+RID_8-6,8,6,MacFadden et al. (2018),MacFadden et al. (2018),K. pneumoniae,Minimum temperature,North America,Region of the Americas,,191331,Beta coefficient (% per °C),0.219,0.109,0.329,Beta
+RID_8-7,8,7,MacFadden et al. (2018),MacFadden et al. (2018),S. aureus,Minimum temperature,North America,Region of the Americas,,365941,Beta coefficient (% per °C),0.305,0.111,0.499,Beta
+RID_8-8,8,8,MacFadden et al. (2018),MacFadden et al. (2018),S. aureus,Minimum temperature,North America,Region of the Americas,,365941,Beta coefficient (% per °C),0.571,0.182,0.96,Beta
+RID_8-9,8,9,MacFadden et al. (2018),MacFadden et al. (2018),S. aureus,Minimum temperature,North America,Region of the Americas,,365941,Beta coefficient (% per °C),0.273,-0.152,0.698,Beta
+RID_8-10,8,10,MacFadden et al. (2018),MacFadden et al. (2018),S. aureus,Minimum temperature,North America,Region of the Americas,,365941,Beta coefficient (% per °C),0.405,0.201,0.609,Beta
+RID_8-11,8,11,MacFadden et al. (2018),MacFadden et al. (2018),S. aureus,Minimum temperature,North America,Region of the Americas,,365941,Beta coefficient (% per °C),0.762,0.378,1.146,Beta
+RID_8-12,8,12,MacFadden et al. (2018),MacFadden et al. (2018),S. aureus,Minimum temperature,North America,Region of the Americas,,365941,Beta coefficient (% per °C),0.514,0.255,0.773,Beta
+RID_8-13,8,13,MacFadden et al. (2018),MacFadden et al. (2018),E. coli,Minimum temperature,North America,Region of the Americas,,1079485,Beta coefficient (% per °C),0.98,0.486,1.474,Beta
+RID_8-14,8,14,MacFadden et al. (2018),MacFadden et al. (2018),E. coli,Minimum temperature,North America,Region of the Americas,,1079485,Beta coefficient (% per °C),0.31,-0.037,0.657,Beta
+RID_8-15,8,15,MacFadden et al. (2018),MacFadden et al. (2018),E. coli,Minimum temperature,North America,Region of the Americas,,1079485,Beta coefficient (% per °C),0.64,0.317,0.963,Beta
+RID_8-16,8,16,MacFadden et al. (2018),MacFadden et al. (2018),E. coli,Minimum temperature,North America,Region of the Americas,,1079485,Beta coefficient (% per °C),0.06,-0.036,0.156,Beta
+RID_8-17,8,17,MacFadden et al. (2018),MacFadden et al. (2018),E. coli,Minimum temperature,North America,Region of the Americas,,1079485,Beta coefficient (% per °C),0.26,0.113,0.407,Beta
+RID_8-18,8,18,MacFadden et al. (2018),MacFadden et al. (2018),E. coli,Minimum temperature,North America,Region of the Americas,,1079485,Beta coefficient (% per °C),0.15,-0.044,0.344,Beta
+RID_8-19,8,19,MacFadden et al. (2018),MacFadden et al. (2018),E. coli,Minimum temperature,North America,Region of the Americas,,1079485,Beta coefficient (% per °C),0.19,-0.253,0.633,Beta
+RID_8-20,8,20,MacFadden et al. (2018),MacFadden et al. (2018),E. coli,Minimum temperature,North America,Region of the Americas,,1079485,Beta coefficient (% per °C),0.61,0.302,0.918,Beta
+RID_8-21,8,21,MacFadden et al. (2018),MacFadden et al. (2018),E. coli,Minimum temperature,North America,Region of the Americas,,1079485,Beta coefficient (% per °C),0.56,-0.146,1.266,Beta
+RID_8-22,8,22,MacFadden et al. (2018),MacFadden et al. (2018),E. coli,Minimum temperature,North America,Region of the Americas,,1079485,Beta coefficient (% per °C),0.67,0.25,1.09,Beta
+RID_8-23,8,23,MacFadden et al. (2018),MacFadden et al. (2018),E. coli,Minimum temperature,North America,Region of the Americas,,1079485,Beta coefficient (% per °C),0.14,0.069,0.211,Beta
+RID_8-24,8,24,MacFadden et al. (2018),MacFadden et al. (2018),K. pneumoniae,Minimum temperature,North America,Region of the Americas,,191331,Beta coefficient (% per °C),-0.12,-0.267,0.027,Beta
+RID_8-25,8,25,MacFadden et al. (2018),MacFadden et al. (2018),K. pneumoniae,Minimum temperature,North America,Region of the Americas,,191331,Beta coefficient (% per °C),0.36,0.178,0.542,Beta
+RID_8-26,8,26,MacFadden et al. (2018),MacFadden et al. (2018),K. pneumoniae,Minimum temperature,North America,Region of the Americas,,191331,Beta coefficient (% per °C),0.04,-0.017,0.097,Beta
+RID_8-27,8,27,MacFadden et al. (2018),MacFadden et al. (2018),K. pneumoniae,Minimum temperature,North America,Region of the Americas,,191331,Beta coefficient (% per °C),0.45,0.223,0.677,Beta
+RID_8-28,8,28,MacFadden et al. (2018),MacFadden et al. (2018),K. pneumoniae,Minimum temperature,North America,Region of the Americas,,191331,Beta coefficient (% per °C),0.19,0.094,0.286,Beta
+RID_8-29,8,29,MacFadden et al. (2018),MacFadden et al. (2018),K. pneumoniae,Minimum temperature,North America,Region of the Americas,,191331,Beta coefficient (% per °C),0.02,-0.16,0.2,Beta
+RID_8-30,8,30,MacFadden et al. (2018),MacFadden et al. (2018),K. pneumoniae,Minimum temperature,North America,Region of the Americas,,191331,Beta coefficient (% per °C),0.52,0.258,0.782,Beta
+RID_8-31,8,31,MacFadden et al. (2018),MacFadden et al. (2018),K. pneumoniae,Minimum temperature,North America,Region of the Americas,,191331,Beta coefficient (% per °C),0.11,0.0,0.22,Beta
+RID_8-32,8,32,MacFadden et al. (2018),MacFadden et al. (2018),K. pneumoniae,Minimum temperature,North America,Region of the Americas,,191331,Beta coefficient (% per °C),0.28,0.139,0.421,Beta
+RID_8-33,8,33,MacFadden et al. (2018),MacFadden et al. (2018),K. pneumoniae,Minimum temperature,North America,Region of the Americas,,191331,Beta coefficient (% per °C),0.23,0.114,0.346,Beta
+RID_8-34,8,34,MacFadden et al. (2018),MacFadden et al. (2018),S. aureus,Minimum temperature,North America,Region of the Americas,,365941,Beta coefficient (% per °C),0.51,-0.098,1.118,Beta
+RID_8-35,8,35,MacFadden et al. (2018),MacFadden et al. (2018),S. aureus,Minimum temperature,North America,Region of the Americas,,365941,Beta coefficient (% per °C),0.29,0.143,0.437,Beta
+RID_8-36,8,36,MacFadden et al. (2018),MacFadden et al. (2018),S. aureus,Minimum temperature,North America,Region of the Americas,,365941,Beta coefficient (% per °C),0.58,0.287,0.873,Beta
+RID_8-37,8,37,MacFadden et al. (2018),MacFadden et al. (2018),S. aureus,Minimum temperature,North America,Region of the Americas,,365941,Beta coefficient (% per °C),0.54,0.267,0.813,Beta
+RID_8-38,8,38,MacFadden et al. (2018),MacFadden et al. (2018),S. aureus,Minimum temperature,North America,Region of the Americas,,365941,Beta coefficient (% per °C),0.39,-0.18,0.96,Beta
+RID_8-39,8,39,MacFadden et al. (2018),MacFadden et al. (2018),S. aureus,Minimum temperature,North America,Region of the Americas,,365941,Beta coefficient (% per °C),0.89,-0.351,2.131,Beta
+RID_8-40,8,40,MacFadden et al. (2018),MacFadden et al. (2018),S. aureus,Minimum temperature,North America,Region of the Americas,,365941,Beta coefficient (% per °C),0.84,-0.161,1.841,Beta
+RID_8-41,8,41,MacFadden et al. (2018),MacFadden et al. (2018),S. aureus,Minimum temperature,North America,Region of the Americas,,365941,Beta coefficient (% per °C),-0.07,-0.907,0.767,Beta
+RID_19-2,19,2,Kaba et al. (2020),Kaba et al. (2020),S. aureus,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,,204132,Beta coefficient,0.022,0.012,0.032,Beta
+RID_19-3,19,3,Kaba et al. (2020),Kaba et al. (2020),Other,Annual/Mean temperature,Europe & Central Asia,European Region,,512143,Beta coefficient,0.011,0.004,0.018,Beta
+RID_19-4,19,4,Kaba et al. (2020),Kaba et al. (2020),Other,Annual/Mean temperature,Europe & Central Asia,European Region,,120535,Beta coefficient,0.025,0.006,0.044,Beta
+RID_19-5,19,5,Kaba et al. (2020),Kaba et al. (2020),Other,Summer temperature,Europe & Central Asia,European Region,,85910,Beta coefficient,0.039,0.003,0.075,Beta
+RID_19-6,19,6,Kaba et al. (2020),Kaba et al. (2020),P. aeruginosa,Annual/Mean temperature,Europe & Central Asia,European Region,High-income (HICs),85910,OR,2.03,1.03,3.99,RR/OR
+RID_19-6,19,6,Kaba et al. (2020),Kaba et al. (2020),P. aeruginosa,Summer temperature,Europe & Central Asia,European Region,High-income (HICs),85910,OR,2.03,1.03,3.99,RR/OR
+RID_19-7,19,7,Kaba et al. (2020),Kaba et al. (2020),S. aureus,Annual/Mean temperature,Europe & Central Asia,European Region,,,Beta coefficient,0.02,0.011,0.029,Beta
+RID_21-1,21,1,McGough SF et al. (2020),McGough SF et al. (2020),Other,Minimum temperature,Europe & Central Asia,European Region,,3551202,Beta coefficient,-0.29,-0.71,0.14,Beta
+RID_21-2,21,2,McGough SF et al. (2020),McGough SF et al. (2020),Other,Minimum temperature,Europe & Central Asia,European Region,,3551202,Beta coefficient,-0.22,-0.74,0.3,Beta
+RID_21-3,21,3,McGough SF et al. (2020),McGough SF et al. (2020),Other,Minimum temperature,Europe & Central Asia,European Region,,3551202,Beta coefficient,-0.5,-1.14,0.13,Beta
+RID_21-4,21,4,McGough SF et al. (2020),McGough SF et al. (2020),Other,Minimum temperature,Europe & Central Asia,European Region,,3551202,Beta coefficient,-0.15,-0.84,0.53,Beta
+RID_21-5,21,5,McGough SF et al. (2021),McGough SF et al. (2021),Other,Minimum temperature,Europe & Central Asia,European Region,,797713,Beta coefficient,-1.07,-2.29,0.06,Beta
+RID_21-6,21,6,McGough SF et al. (2022),McGough SF et al. (2022),Other,Minimum temperature,Europe & Central Asia,European Region,,797713,Beta coefficient,-1.23,-2.52,0.06,Beta
+RID_21-7,21,7,McGough SF et al. (2023),McGough SF et al. (2023),Other,Minimum temperature,Europe & Central Asia,European Region,,797713,Beta coefficient,-1.34,-2.93,0.24,Beta
+RID_21-12,21,12,McGough SF et al. (2028),McGough SF et al. (2028),S. aureus,Minimum temperature,Europe & Central Asia,European Region,,1529885,Beta coefficient,0.7,-0.25,1.65,Beta
+RID_21-13,21,13,McGough SF et al. (2028),McGough SF et al. (2028),Other,Minimum temperature,Europe & Central Asia,European Region,,3551202,Beta coefficient,0.03,0.02,0.05,Beta
+RID_21-14,21,14,McGough SF et al. (2028),McGough SF et al. (2028),Other,Minimum temperature,Europe & Central Asia,European Region,,3551202,Beta coefficient,0.05,0.04,0.07,Beta
+RID_21-15,21,15,McGough SF et al. (2028),McGough SF et al. (2028),Other,Minimum temperature,Europe & Central Asia,European Region,,3551202,Beta coefficient,0.06,0.03,0.08,Beta
+RID_21-16,21,16,McGough SF et al. (2028),McGough SF et al. (2028),Other,Minimum temperature,Europe & Central Asia,European Region,,3551202,Beta coefficient,0.0,-0.03,0.02,Beta
+RID_21-17,21,17,McGough SF et al. (2028),McGough SF et al. (2028),Other,Minimum temperature,Europe & Central Asia,European Region,,797713,Beta coefficient,0.04,-0.02,0.1,Beta
+RID_21-18,21,18,McGough SF et al. (2028),McGough SF et al. (2028),Other,Minimum temperature,Europe & Central Asia,European Region,,797713,Beta coefficient,0.09,0.03,0.15,Beta
+RID_21-19,21,19,McGough SF et al. (2028),McGough SF et al. (2028),Other,Minimum temperature,Europe & Central Asia,European Region,,797713,Beta coefficient,0.12,0.04,0.19,Beta
+RID_21-24,21,24,McGough SF et al. (2028),McGough SF et al. (2028),S. aureus,Minimum temperature,Europe & Central Asia,European Region,,1529885,Beta coefficient,-0.04,-0.23,0.15,Beta
+RID_27-2,27,2,Feldman et al. (2022),Feldman et al. (2022),E. coli,Annual/Mean temperature,Middle East & North Africa,European Region,High-income (HICs),8983,IRR,1.01,1.0,1.02,RR/OR
+RID_27-4,27,4,Feldman et al. (2022),Feldman et al. (2022),E. coli,Annual/Mean temperature,Middle East & North Africa,European Region,High-income (HICs),8970,IRR,1.01,1.0,1.02,RR/OR
+RID_27-6,27,6,Feldman et al. (2022),Feldman et al. (2022),E. coli,Annual/Mean temperature,Middle East & North Africa,European Region,High-income (HICs),8973,IRR,1.01,1.0,1.02,RR/OR
+RID_27-8,27,8,Feldman et al. (2022),Feldman et al. (2022),E. coli,Annual/Mean temperature,Middle East & North Africa,European Region,High-income (HICs),1528,IRR,1.01,0.99,1.03,RR/OR
+RID_27-10,27,10,Feldman et al. (2022),Feldman et al. (2022),E. coli,Annual/Mean temperature,Middle East & North Africa,European Region,High-income (HICs),1521,IRR,1.0,0.98,1.02,RR/OR
+RID_27-12,27,12,Feldman et al. (2022),Feldman et al. (2022),E. coli,Annual/Mean temperature,Middle East & North Africa,European Region,High-income (HICs),1524,IRR,1.0,0.98,1.02,RR/OR
+RID_33-1,33,1,Li  et al. (2023),Li et al. (2023),A. baumannii,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,141931,RR (Rate Ratio),1.0,0.93,1.08,RR/OR
+RID_33-2,33,2,Li  et al. (2023),Li et al. (2023),K. pneumoniae,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,179805,RR (Rate Ratio),1.14,1.07,1.23,RR/OR
+RID_33-3,33,3,Li  et al. (2023),Li et al. (2023),P. aeruginosa,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,138211,RR (Rate Ratio),1.06,1.03,1.08,RR/OR
+RID_33-4,33,4,Li  et al. (2023),Li et al. (2023),A. baumannii,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,141931,RR (Rate Ratio),1.02,0.91,1.14,RR/OR
+RID_33-5,33,5,Li  et al. (2023),Li et al. (2023),A. baumannii,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,141931,RR (Rate Ratio),1.01,0.91,1.12,RR/OR
+RID_33-6,33,6,Li  et al. (2023),Li et al. (2023),K. pneumoniae,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,179805,RR (Rate Ratio),0.92,0.7,1.2,RR/OR
+RID_33-7,33,7,Li  et al. (2023),Li et al. (2023),K. pneumoniae,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,179805,RR (Rate Ratio),0.93,0.75,1.16,RR/OR
+RID_33-8,33,8,Li  et al. (2023),Li et al. (2023),P. aeruginosa,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,138211,RR (Rate Ratio),0.99,0.91,1.08,RR/OR
+RID_33-9,33,9,Li  et al. (2023),Li et al. (2023),P. aeruginosa,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,138211,RR (Rate Ratio),1.09,1.02,1.18,RR/OR
+RID_33-10,33,10,Li  et al. (2023),Li et al. (2023),K. pneumoniae,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,179805,RR (Rate Ratio),1.131,1.041,1.229,RR/OR
+RID_33-11,33,11,Li  et al. (2023),Li et al. (2023),P. aeruginosa,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,138211,RR (Rate Ratio),1.075,1.029,1.123,RR/OR
+RID_33-12,33,12,Li  et al. (2023),Li et al. (2023),K. pneumoniae,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,179805,RR (Rate Ratio),1.17,1.07,1.28,RR/OR
+RID_33-13,33,13,Li  et al. (2023),Li et al. (2023),P. aeruginosa,Winter temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,138211,RR (Rate Ratio),1.03,1.01,1.05,RR/OR
+RID_39-1,39,1,Zeng et al. (2023),Zeng et al. (2023),K. pneumoniae,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,1005622217,RR,1.047,1.031,1.082,RR/OR
+RID_39-2,39,2,Zeng et al. (2023),Zeng et al. (2023),K. pneumoniae,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,1005622217,RR,1.107,1.011,1.211,RR/OR
+RID_39-3,39,3,Zeng et al. (2023),Zeng et al. (2023),K. pneumoniae,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,1005622,RR,1.044,1.006,1.083,RR/OR
+RID_39-4,39,4,Zeng et al. (2023),Zeng et al. (2023),K. pneumoniae,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,1005622,RR,1.218,1.101,1.348,RR/OR
+RID_39-5,39,5,Zeng et al. (2023),Zeng et al. (2023),K. pneumoniae,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,1005622,RR,1.044,1.002,1.088,RR/OR
+RID_39-6,39,6,Zeng et al. (2023),Zeng et al. (2023),K. pneumoniae,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,1005622,RR,1.17,1.047,1.307,RR/OR
+RID_39-7,39,7,Zeng et al. (2023),Zeng et al. (2023),K. pneumoniae,Summer temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,1005622,RR,1.028,1.01,1.047,RR/OR
+RID_39-8,39,8,Zeng et al. (2023),Zeng et al. (2023),K. pneumoniae,Summer temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,1005622,RR,1.031,0.986,1.078,RR/OR
+RID_39-9,39,9,Zeng et al. (2023),Zeng et al. (2023),K. pneumoniae,Summer temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,1005622,RR,1.026,1.001,1.052,RR/OR
+RID_39-10,39,10,Zeng et al. (2023),Zeng et al. (2023),K. pneumoniae,Summer temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,1005622,RR,1.095,1.033,1.162,RR/OR
+RID_39-11,39,11,Zeng et al. (2023),Zeng et al. (2023),K. pneumoniae,Summer temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,1005622,RR,1.02,0.988,1.054,RR/OR
+RID_39-12,39,12,Zeng et al. (2023),Zeng et al. (2023),K. pneumoniae,Summer temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,1005622,RR,1.134,1.051,1.225,RR/OR
+RID_39-13,39,13,Zeng et al. (2023),Zeng et al. (2023),K. pneumoniae,Winter temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,1005622,RR,1.004,0.997,1.011,RR/OR
+RID_39-14,39,14,Zeng et al. (2023),Zeng et al. (2023),K. pneumoniae,Winter temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,1005622,RR,1.003,0.982,1.024,RR/OR
+RID_41-34,41,34,Zhou et al. (2023),Zhou et al. (2023),Other,Annual/Mean temperature,Global,Global,,,Beta coefficient,-0.0256,-0.0824,0.0312,Beta
+RID_41-36,41,36,Zhou et al. (2023),Zhou et al. (2023),Other,Annual/Mean temperature,Global,Global,,,Beta coefficient,0.00242,-0.0548,0.0596,Beta
+RID_41-37,41,37,Zhou et al. (2023),Zhou et al. (2023),S. aureus,Annual/Mean temperature,Global,Global,,,Beta coefficient,0.684,0.2766,1.0914,Beta
+RID_41-38,41,38,Zhou et al. (2023),Zhou et al. (2023),Other,Annual/Mean temperature,Global,Global,,,Beta coefficient,0.221,0.0529,0.3891,Beta
+RID_41-39,41,39,Zhou et al. (2023),Zhou et al. (2023),Other,Annual/Mean temperature,Global,Global,,,Beta coefficient,-0.0384,-0.1142,0.0374,Beta
+RID_41-40,41,40,Zhou et al. (2023),Zhou et al. (2023),Other,Annual/Mean temperature,Global,Global,,,Beta coefficient,-0.129,-0.2418,-0.0162,Beta
+RID_46-1,46,1,Sun et al. (2024),Sun et al. (2024),Other,Other temperature,East Asia & Pacific,Western Pacific Region,,244,Standardized beta coefficient,0.272,0.11,0.434,Beta
+RID_46-2,46,2,Sun et al. (2024),Sun et al. (2024),Other,Other temperature,East Asia & Pacific,Western Pacific Region,,244,Standardized beta coefficient,0.183,0.015,0.351,Beta
+RID_46-3,46,3,Sun et al. (2024),Sun et al. (2024),Other,Maximum temperature,East Asia & Pacific,Western Pacific Region,,244,Standardized beta coefficient,0.128,0.007,0.249,Beta
+RID_55-1,55,1,Kou (2025),Kou (2025),K. pneumoniae,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,907538,RR,1.097,1.069,1.126,RR/OR
+RID_55-2,55,2,Kou (2025),Kou (2025),P. aeruginosa,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,468690,RR,1.003,0.994,1.012,RR/OR
+RID_55-3,55,3,Kou (2025),Kou (2025),A. baumannii,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,366748,RR,1.021,1.012,1.03,RR/OR
+RID_55-4,55,4,Kou (2025),Kou (2025),K. pneumoniae,Summer temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,907538,RR,1.129,1.104,1.155,RR/OR
+RID_55-5,55,5,Kou (2025),Kou (2025),P. aeruginosa,Summer temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,468690,RR,0.999,0.991,1.007,RR/OR
+RID_55-6,55,6,Kou (2025),Kou (2025),A. baumannii,Summer temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,366748,RR,1.035,1.013,1.058,RR/OR
+RID_55-7,55,7,Kou (2025),Kou (2025),K. pneumoniae,Winter temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,907538,RR,1.046,1.008,1.085,RR/OR
+RID_55-8,55,8,Kou (2025),Kou (2025),P. aeruginosa,Winter temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,468690,RR,1.003,0.995,1.011,RR/OR
+RID_55-9,55,9,Kou (2025),Kou (2025),A. baumannii,Winter temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,366748,RR,1.008,0.991,1.026,RR/OR
+RID_55-10,55,10,Kou (2025),Kou (2025),K. pneumoniae,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,545000,RR,0.892,0.84,0.947,RR/OR
+RID_55-11,55,11,Kou (2025),Kou (2025),P. aeruginosa,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,281000,RR,0.94,0.882,1.002,RR/OR
+RID_55-12,55,12,Kou (2025),Kou (2025),A. baumannii,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,220000,RR,1.002,0.963,1.043,RR/OR
+RID_55-13,55,13,Kou (2025),Kou (2025),K. pneumoniae,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,362000,RR,1.163,1.11,1.219,RR/OR
+RID_55-14,55,14,Kou (2025),Kou (2025),P. aeruginosa,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,188000,RR,1.021,0.979,1.065,RR/OR
+RID_55-15,55,15,Kou (2025),Kou (2025),A. baumannii,Annual/Mean temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,147000,RR,1.029,1.007,1.051,RR/OR
+RID_55-16,55,16,Kou (2025),Kou (2025),Other,Other temperature,East Asia & Pacific,Western Pacific Region,,907538,Beta coefficient,0.022,-0.146,0.19,Beta
+RID_55-17,55,17,Kou (2025),Kou (2025),Other,Other temperature,East Asia & Pacific,Western Pacific Region,,907538,Beta coefficient,-0.058,-0.226,0.11,Beta
+RID_55-18,55,18,Kou (2025),Kou (2025),Other,Other temperature,East Asia & Pacific,Western Pacific Region,,907538,Beta coefficient,-0.115,-0.269,0.039,Beta
+RID_55-19,55,19,Kou (2025),Kou (2025),Other,Other temperature,East Asia & Pacific,Western Pacific Region,,907538,Beta coefficient,-0.175,-0.33,-0.02,Beta
+RID_55-20,55,20,Kou (2025),Kou (2025),Other,Other temperature,East Asia & Pacific,Western Pacific Region,,907538,Beta coefficient,-0.086,-0.223,0.051,Beta
+RID_55-21,55,21,Kou (2025),Kou (2025),Other,Other temperature,East Asia & Pacific,Western Pacific Region,,468690,Beta coefficient,-0.001,-0.137,0.135,Beta
+RID_55-22,55,22,Kou (2025),Kou (2025),Other,Other temperature,East Asia & Pacific,Western Pacific Region,,468690,Beta coefficient,0.019,-0.047,0.085,Beta
+RID_55-23,55,23,Kou (2025),Kou (2025),Other,Other temperature,East Asia & Pacific,Western Pacific Region,,468690,Beta coefficient,0.009,-0.053,0.071,Beta
+RID_55-24,55,24,Kou (2025),Kou (2025),Other,Other temperature,East Asia & Pacific,Western Pacific Region,,468690,Beta coefficient,0.019,-0.043,0.081,Beta
+RID_55-25,55,25,Kou (2025),Kou (2025),Other,Other temperature,East Asia & Pacific,Western Pacific Region,,468690,Beta coefficient,-0.012,-0.065,0.041,Beta
+RID_55-26,55,26,Kou (2025),Kou (2025),Other,Other temperature,East Asia & Pacific,Western Pacific Region,,366748,Beta coefficient,-0.014,-0.07,0.042,Beta
+RID_55-27,55,27,Kou (2025),Kou (2025),Other,Other temperature,East Asia & Pacific,Western Pacific Region,,366748,Beta coefficient,-0.018,-0.072,0.036,Beta
+RID_55-28,55,28,Kou (2025),Kou (2025),Other,Other temperature,East Asia & Pacific,Western Pacific Region,,366748,Beta coefficient,-0.032,-0.08,0.016,Beta
+RID_55-29,55,29,Kou (2025),Kou (2025),Other,Other temperature,East Asia & Pacific,Western Pacific Region,,366748,Beta coefficient,-0.024,-0.073,0.025,Beta
+RID_55-30,55,30,Kou (2025),Kou (2025),Other,Other temperature,East Asia & Pacific,Western Pacific Region,,366748,Beta coefficient,-0.016,-0.059,0.027,Beta
+RID_56-1,56,1,Li (2025),Li (2025),E. coli,Annual/Mean temperature,Global,Global,Global (mixed),8527728,OR,0.95,0.87,1.03,RR/OR
+RID_56-5,56,5,Li (2025),Li (2025),K. pneumoniae,Annual/Mean temperature,Global,Global,Global (mixed),4973588,OR,0.96,0.89,1.04,RR/OR
+RID_56-9,56,9,Li (2025),Li (2025),Other,Annual/Mean temperature,Global,Global,Global (mixed),32002684,OR,1.13,0.99,1.3,RR/OR
+RID_56-13,56,13,Li (2025),Li (2025),A. baumannii,Annual/Mean temperature,Global,Global,Global (mixed),2185560,OR,1.23,1.06,1.43,RR/OR
+RID_56-17,56,17,Li (2025),Li (2025),E. coli,Annual/Mean temperature,Global,Global,Global (mixed),8412847,OR,0.93,0.72,1.2,RR/OR
+RID_56-21,56,21,Li (2025),Li (2025),K. pneumoniae,Annual/Mean temperature,Global,Global,Global (mixed),4968993,OR,1.05,0.86,1.29,RR/OR
+RID_56-25,56,25,Li (2025),Li (2025),P. aeruginosa,Annual/Mean temperature,Global,Global,Global (mixed),2933968,OR,1.04,0.98,1.1,RR/OR
+RID_56-29,56,29,Li (2025),Li (2025),Other,Annual/Mean temperature,Europe & Central Asia,European Region,High-income (HICs),21345116,OR,1.18,1.01,1.37,RR/OR
+RID_56-30,56,30,Li (2025),Li (2025),A. baumannii,Annual/Mean temperature,Europe & Central Asia,European Region,High-income (HICs),1324449,OR,1.09,0.93,1.28,RR/OR
+RID_56-31,56,31,Li (2025),Li (2025),E. coli,Annual/Mean temperature,Europe & Central Asia,European Region,High-income (HICs),5747688,OR,1.03,0.94,1.13,RR/OR
+RID_56-32,56,32,Li (2025),Li (2025),E. coli,Annual/Mean temperature,Europe & Central Asia,European Region,High-income (HICs),5745974,OR,1.16,0.93,1.46,RR/OR
+RID_56-33,56,33,Li (2025),Li (2025),K. pneumoniae,Annual/Mean temperature,Europe & Central Asia,European Region,High-income (HICs),3302462,OR,0.97,0.89,1.06,RR/OR
+RID_56-34,56,34,Li (2025),Li (2025),K. pneumoniae,Annual/Mean temperature,Europe & Central Asia,European Region,High-income (HICs),3364008,OR,1.08,0.86,1.37,RR/OR
+RID_56-35,56,35,Li (2025),Li (2025),P. aeruginosa,Annual/Mean temperature,Europe & Central Asia,European Region,High-income (HICs),1560535,OR,1.06,1.0,1.12,RR/OR
+RID_68-1,68,1,Sobur et al. (2022),Sobur et al. (2022),S. aureus,Temperature change,South Asia,Other/Unspecified,Lower-middle-income,400,OR,1.08,1.05,1.11,RR/OR
+RID_77-4,77,4,Gong et al. (2020),Gong et al. (2020),A. baumannii,Other temperature,East Asia & Pacific,Western Pacific Region,Upper-middle-income,93,OR,2.8956,1.0513,8.6976,RR/OR
+RID_173-1,173,1,Dagan et al. (2008),Dagan et al. (2008),S. pneumoniae,Seasonal variation,Middle East & North Africa,European Region,High-income (HICs),1401,OR,1.86,1.37,2.52,RR/OR
+RID_173-2,173,2,Dagan et al. (2008),Dagan et al. (2008),S. pneumoniae,Seasonal variation,Middle East & North Africa,European Region,High-income (HICs),1401,OR,1.56,1.15,2.12,RR/OR
+RID_173-3,173,3,Dagan et al. (2008),Dagan et al. (2008),S. pneumoniae,Seasonal variation,Middle East & North Africa,European Region,High-income (HICs),1401,OR,1.73,1.25,2.39,RR/OR
+RID_173-4,173,4,Dagan et al. (2008),Dagan et al. (2008),S. pneumoniae,Seasonal variation,Middle East & North Africa,European Region,High-income (HICs),2205,OR,1.3,0.93,1.92,RR/OR
+RID_173-5,173,5,Dagan et al. (2008),Dagan et al. (2008),S. pneumoniae,Seasonal variation,Middle East & North Africa,European Region,High-income (HICs),2205,OR,0.91,0.52,1.63,RR/OR
+RID_173-6,173,6,Dagan et al. (2008),Dagan et al. (2008),S. pneumoniae,Seasonal variation,Middle East & North Africa,European Region,High-income (HICs),2205,OR,1.05,0.71,1.54,RR/OR
