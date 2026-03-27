@@ -1,10 +1,7 @@
 # Public release script for the climate-AMR manuscript
 
 #     Hydrological Factors and AMR Meta-Analysis
-#     PERFECT VERSION - COMPLETELY FIXED
-#
-#        - Correlation: Environmental only (excluded 46-8)
-#        - Beta: Clinical only (excluded 25-1)
+
 
 # SECTION 1: WORKSPACE SETUP
 rm(list = ls(all.names = TRUE))
