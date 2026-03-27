@@ -1,0 +1,29 @@
+﻿column_name,description
+evidence_record_id,Safe text identifier for each extracted mechanistic evidence record.
+study_reference_id,Numeric study identifier aligned with the master study table.
+within_study_evidence_no,Sequential evidence-chain number within each study.
+author_year,Normalized author-year citation label.
+title,Primary study title.
+evidence_location,Section/page/paragraph source location used for traceability.
+evidence_source_original,Original extraction label describing which manuscript section contributed the evidence statement.
+evidence_source_category,Broad English grouping of evidence source location.
+pathway_level_1_original,Original Level-1 mechanism coding from the extraction workbook.
+pathway_level_1_category,Broad English Level-1 pathway domain.
+pathway_level_2_original,Original Level-2 mechanism coding.
+pathway_level_2_corrected_original,Corrected Level-2 mechanism coding from the extraction workbook.
+climate_factor_original,Original coded climate factor description retained as extracted.
+pathogen,Pathogen label as recorded in the extraction workbook.
+amr_outcome_original,Original AMR outcome coding retained as extracted.
+mechanism_chain_original,Original causal-chain summary retained as extracted.
+original_quote,Verbatim source quote from the primary study used to support the evidence chain.
+evidence_type_original,Original evidence-type coding.
+evidence_type_category,Broad English evidence-type grouping.
+mechanism_support_original,Original mechanism-support coding.
+mechanism_support_category,Broad English mechanism-support grouping.
+effect_direction_original,Original effect-direction coding.
+effect_direction_category,Broad English effect-direction grouping.
+time_scale_original,Original time-scale coding.
+time_scale_category,Broad English time-scale grouping.
+spatial_context_original,Original spatial-context coding.
+spatial_context_category,Broad English spatial-context grouping.
+extraction_date,Standardized extraction date in YYYY-MM-DD format.
