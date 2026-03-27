@@ -1,11 +1,7 @@
 # Public release script for the climate-AMR manuscript
 
-#     Temperature and AMR Meta-Analysis v28.9 ENHANCED + WHO REGIONS
-#     Complete Script with WHO Regional Subgroup Analysis
-#
-#     - Forest plots include Weight column (2 decimal places)
-#     - X-axis labels with 1 decimal place
-#     - Top-journal style formatting
+#     Temperature and AMR Meta-Analysis
+
 #     - All analyses use meta::metagen() (two-level DL model)
 
 rm(list = ls(all.names = TRUE))
