@@ -1,7 +1,6 @@
 # Public release script for the climate-AMR manuscript
 
 # Panel A — WB region × income (FY26) background + dots (unweighted studies)
-# PATCH: move inset downward (only change draw_plot y for inset)
 
 suppressPackageStartupMessages({
   library(sf)
